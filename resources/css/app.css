@@ -1,0 +1,8 @@
+/*@import "~materialize-css/dist/css/materialize.css";*/
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#nav {
+    transition: max-height 0.5s ease-in-out;
+}
